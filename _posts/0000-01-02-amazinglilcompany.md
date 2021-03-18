@@ -2,6 +2,5 @@
 layout:slide
 title: "Welcome to out second slide!"
 ---
-as loco said:
->life is full of mystery
+*This is my second slide*
 Use your left arrow to go back!
